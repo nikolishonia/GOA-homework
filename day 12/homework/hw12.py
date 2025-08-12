@@ -39,6 +39,7 @@ else:
 
 
 
+
 # 7) უყურეთ შემდეგ ვიდეო წყაროსს:
 
 # -- https://youtu.be/FvMPfrgGeKs --
