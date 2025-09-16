@@ -12,7 +12,7 @@ print(sia)
 
 # 3)შექმენით სია სადაც შეიყვანთ ადამიანის სახელებს,უნდა გქონდეთ სულ 10 სახელი,თქვენი დავალებაა რომ გამოიტანოტ ,მე 5 , მე 9 ,მე 3 ,მე 7 და პირველ ინდექსზე მდგომი ელემენტები ცალ ცალკე,გამოიყენეთ ინდექსინგი
 
-names = ["dwight" , "mikaela" , "carmina" , "sable" , "yui" , "feng" , "adonis" , "herman" , "anna" , "varg"]
+names = ["dwight" , "mikaela" , "carmina" , "sable" , "yui" , "feng" , "adiris" , "herman" , "anna" , "varg"]
 
 print(names[5])
 print(names[9])
