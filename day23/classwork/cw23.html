@@ -1,0 +1,39 @@
+<!-- 1)შექმენით dropdown menu რომელშიც შეგვეძლება შეავრჩიოთ მანქანის ბრენდი, defauld value დ დააყენეთ bmw
+
+2)შექმენით სარეგისტრაციო ფორმა, აი ამ დატაბაზის მიხედვით შექმენით label & input ები, და name ების საშუალებით გაანაწილეთ სწორ column ებში თითოეული input, ზემოთ შექმენილი dropdown menu გამოიყეენთ brand ისთვის -->
+
+<head>
+    <title> CW 23 </title>
+</head>
+
+<body>
+    <!-- <select> 
+        <option value="VW">Volkswagen</option>
+        <option selected value="BMW">BMW</option>
+        <option value="DV">Dodge Viper</option>
+        <option value="CI">Chevrolet Impala</option>
+    </select> -->
+
+    <form>
+        <label for="name"> Enter your name <br>
+            <input type="text" id = "name" required name = "firstname">
+        </label>  <br>
+        <label for="lastname"> Enter your surname <br>
+            <input type="text" id = "lastname" required name = "lastname">
+        </label> <br>
+        <label for="email"> Enter your email <br>
+            <input type="email" id = "email" required name = "email">
+        </label>  <br>
+        <label for="pw"> Enter your password <br>
+            <input type="password" id = "pw" required name = "password">
+        </label>  <br> <br>
+        <select id = "brand" required name = "brand"> 
+            <option value="VW">Volkswagen</option>
+            <option selected value="BMW">BMW</option>
+            <option value="DV">Dodge Viper</option>
+            <option value="CI">Chevrolet Impala</option>
+        </select> <br> <br>
+        <input type="submit">
+    </form>
+</body>
+
