@@ -1,0 +1,42 @@
+
+p {
+    text-shadow: 5px 5px 5px rgb(60, 255, 0);
+}
+
+h1 {
+    color: rgb(255, 0, 128);
+    text-shadow: 2px 2px 0px purple;
+}
+
+h2 {
+    color: rgb(116, 56, 255);
+    text-shadow: 2px 2px 0px rgb(255, 112, 219);
+}
+
+h3 {
+    text-shadow: 2px 7px 15px black;
+}
+
+h4 {
+    color: rgb(222, 250, 215);
+    text-shadow: 0px 0px 15px rgb(38, 205, 0);
+}
+
+h5 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: violet;
+}
+
+h6 {
+    text-decoration-line: line-through;
+    text-decoration-style: dashed;
+    text-decoration-color: lime;
+}
+
+.dec {
+    text-shadow: none;
+    text-decoration-line: overline;
+    text-decoration-style: dotted;
+    text-decoration-color: navy;
+}
