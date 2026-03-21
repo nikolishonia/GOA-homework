@@ -1,0 +1,23 @@
+a {
+    font-size: 45px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: grey;
+}
+
+#first:link{
+    color: rgb(109, 136, 254);
+}
+
+#second:hover{
+    color: rgb(167, 114, 216);
+}
+
+#third:active{
+    color: blue;
+}
+
+#fourth:visited{
+    color: rgb(255, 157, 214);
+}

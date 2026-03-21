@@ -1,0 +1,53 @@
+#one {
+    font-weight: normal;
+}
+
+#two {
+    font-weight: lighter;
+}
+
+#three {
+    font-weight: bold;
+}
+
+#four {
+    font-weight: bolder;
+}
+
+
+#first {
+    font-weight: 100;
+}
+
+#second {
+    font-weight: 200;
+}
+
+#third {
+    font-weight: 300;
+}
+
+#fourth {
+    font-weight: 400;
+}
+
+#fifth {
+    font-weight: 500;
+}
+
+#sixth {
+    font-weight: 600;
+}
+
+#seventh {
+    font-weight: 700;
+}
+
+#eighth {
+    font-weight: 800;
+}
+
+#ninth {
+    font-weight: 900;
+}
+
