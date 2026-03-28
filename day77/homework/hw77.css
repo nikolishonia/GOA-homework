@@ -1,0 +1,176 @@
+#one li{
+    list-style-position: inside;
+    border: dotted 3px rgb(133, 131, 131);
+    color: rgb(99, 99, 164);
+    background-color: rgb(207, 207, 207);
+    font-size: 140%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#two li{
+    list-style: url(favorite_24dp_B87E9F_FILL0_wght400_GRAD0_opsz24.png);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 140%;
+    color: rgb(160, 101, 130);
+    background-color: rgb(206, 188, 198);
+    border: dotted 1px whitesmoke;
+    text-align: center;
+}
+
+#three li{
+    list-style: lower-roman inside;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    color: rgb(115, 0, 0);
+    background-color: rgb(46, 6, 6);
+    border: double 4px rgb(136, 0, 0)
+}
+
+#four li{
+    list-style: url(favorite_24dp_B87E9F_FILL0_wght400_GRAD0_opsz24.png) inside;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    color: rgb(108, 43, 158);
+    background-color: rgb(29, 6, 46);
+    border: double 4px rgb(131, 79, 154)
+}
+
+#five{
+    font-size: 150%;
+    background-color: aqua;
+    border: solid 2px blue;
+    list-style: inside circle;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+}
+
+#five li{
+    border: dotted 1px whitesmoke;
+}
+
+#five:hover{
+    background-color: red;
+    color: black;
+    border-color: black;
+}
+
+#five li:hover{
+    border-color: black;
+}
+
+#six{
+    font-size: 160%;
+    list-style: url(favorite_24dp_B87E9F_FILL0_wght400_GRAD0_opsz24.png);
+    background-color: rgb(228, 219, 224);
+    color: rgb(205, 134, 167);
+    font-family: cursive;
+    font-weight: bold;
+    text-align: right;
+}
+
+#seven{
+    list-style: upper-roman inside;
+    font-size: 140%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(161, 112, 207);
+    border: solid 3px rgb(37, 3, 45);
+    background-color: rgb(69, 51, 86);
+}
+
+#seven ul{
+    list-style: url(favorite_24dp_B87E9F_FILL0_wght400_GRAD0_opsz24.png);
+    font-family: cursive;
+    text-align: center;
+    color: rgb(60, 126, 122);
+    border: dashed 2px rgba(12, 106, 86, 0.381);
+    background-color: rgb(120, 213, 182);
+}
+
+#seven ul li{
+    border: dotted 1px white;
+}
+
+
+#eight{
+    font-size: 150%;
+    background-color: rgb(251, 172, 241);
+    border: solid 2px rgb(193, 97, 197);
+    list-style: inside square;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+#eight li{
+    border: dashed 1px whitesmoke;
+}
+
+#eight:hover{
+    background-color: rgb(255, 0, 225);
+    color: black;
+    border-color: black;
+}
+
+#eight li:hover{
+    border-color: black;
+}
+
+
+#ninth{
+    font-size: 160%;
+    background-color: rgb(227, 184, 222);
+    border: solid 2px rgb(83, 83, 83);
+    list-style: inside url(favorite_24dp_B87E9F_FILL0_wght400_GRAD0_opsz24.png);
+    font-family: cursive;
+    text-align: center;
+    color: rgb(123, 94, 128);
+}
+
+#ninth li{
+    border-style: groove;
+}
+
+#ninth:hover{
+    background-color: rgb(88, 88, 88);
+    color: black;
+    border-color: rgb(207, 207, 207);
+}
+
+#ninth li:hover{
+    border-color: rgb(190, 99, 187);
+}
+
+#tenth{
+    list-style: inside upper-roman;
+    background-color: rgb(69, 36, 99);
+    border: dashed 2px rgb(162, 136, 162);
+    font-size: 150%;
+    color: rgb(220, 213, 204);
+    font-family: cursive;
+}
+
+#tenth ul{
+    list-style: outside square;
+    border: dashed 2px rgba(162, 136, 162, 0.514);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#eleventh{
+    list-style: inside georgian;
+    background-color: rgb(36, 56, 99);
+    border: dashed 2px rgb(3, 0, 78);
+    font-size: 150%;
+    color: rgb(155, 176, 227);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#eleventh ul{
+    list-style: outside circle;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: overline;
+}
+
+#eleventh li:hover{
+    background-color: rgb(211, 208, 203);
+    color: rgb(43, 42, 85);
+}
