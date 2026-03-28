@@ -1,0 +1,7 @@
+.movies{
+    list-style-type: upper-roman;
+}
+
+.genres{
+    list-style-type: decimal-leading-zero;
+}
