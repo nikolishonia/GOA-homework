@@ -1,0 +1,16 @@
+input{
+    outline: none;
+    background-color: rgba(0, 55, 0, 0.789);
+    border: solid 3px rgb(70, 0, 0);
+    color: rgb(23, 23, 121);
+    font-size: 300%;
+}
+
+input:focus{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-weight: lighter;
+}
+
