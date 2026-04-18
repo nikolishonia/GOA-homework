@@ -1,0 +1,22 @@
+#one{
+    border-top: solid 2px violet;
+    border-bottom: solid 2px rgb(255, 0, 0);
+    border-left: solid 2px rgb(30, 65, 193);
+    border-right: solid 2px rgb(130, 220, 238);
+}
+
+#two{
+    margin: 80px 20px;
+}
+
+#three{
+    margin: 40px;
+}
+
+#four{
+    margin: 10px 60px 35px 80px;
+}
+
+#five{
+    margin-bottom: 45px;
+}
